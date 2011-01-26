@@ -1,0 +1,20 @@
+#canvas_container {
+	float:left;
+	width : 640;
+	height : 480;
+}
+#object_list {
+	float:right;
+	width : 200;
+}
+
+#object_list p {
+	margin-top:0 px;
+	margin-bottom: 0 px;
+	background: #FFFFFF;
+	font-family:monospace;
+}
+
+canvas {
+	border: solid;
+}
